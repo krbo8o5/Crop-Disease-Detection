@@ -14,3 +14,4 @@ These devices are deployed in actual agricultural fields, continuously capturing
 - **Web Interface:** Flask / Streamlit / React (optional)
 - **Dataset Management:** Pandas, NumPy, OpenCV
 
+![image](https://github.com/user-attachments/assets/fbd67643-cc7f-4cfe-a285-1a349c1b649b)
